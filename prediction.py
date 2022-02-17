@@ -22,7 +22,8 @@ class LOL():
     qtype="RANKED_SOLO_5x5"
     
     def __init__(self):
-        cass.set_riot_api_key("RGAPI-b9e72e71-4463-40a1-9c9e-8e380d08c9ba")  
+        cass.set_riot_api_key("your_api_here")  
+        # get your own api key here: https://developer.riotgames.com/
         self.update_region()
         self.update_league()
         self.update_team()
