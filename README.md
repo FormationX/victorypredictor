@@ -4,6 +4,7 @@
 
 Using Cassiopeia and scikit-learn python libraries, attempts to predict outcomes of League games, or the chance of winning one in the first place.
 Sadly, due to issues with Cassiopeia, currently unable to operate on live games and states of games in specific points in time.
+Needs a Riot API key, obtain a development one from here: https://developer.riotgames.com/
 
 ## Available classes:
 
